@@ -1,0 +1,2 @@
+# LambdaPractice
+Lambda expressions practice
